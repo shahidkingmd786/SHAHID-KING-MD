@@ -3,7 +3,7 @@
 </div> 
 <div align="center"> 
   <a href=""> 
-    <img src="https://ibb.co/yFR2HnZ1" alt="PATHAN-BOT" height="300"> 
+    <img src="https://ibb.co/yFR2HnZ1" alt="SHAHID KING" height="300"> 
   </a> 
 </div>
 
